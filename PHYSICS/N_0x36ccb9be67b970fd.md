@@ -9,7 +9,7 @@ void _0x36CCB9BE67B970FD(int ropeId, BOOL p1);
 ```
 
 ```
-ROPE_*
+ROPE_SET_SMOOTH_REELIN
 ```
 
 ## Parameters
